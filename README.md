@@ -1,1 +1,1 @@
-https://sergey-krasnodar.github.io/Simple-Music-Player/
+https://sergey-krasnodar.github.io/simple-music-player
